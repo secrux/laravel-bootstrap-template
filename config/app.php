@@ -160,6 +160,14 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        /*
+         * Customized Service Providers...
+         */
+        App\Providers\BootstrapServiceProvider::class,
+        App\Providers\JqueryServiceProvider::class,
+        App\Providers\ModernizrServiceProvider::class,
+        App\Providers\FontawesomeServiceProvider::class,
+
     ],
 
     /*
