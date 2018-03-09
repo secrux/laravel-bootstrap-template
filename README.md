@@ -55,3 +55,6 @@ php artisan key:generate
 # and check if your project is runnning under http://127.0.0.1:8000 (default)
 php artisan serve
 ```
+
+### Questions
+If you have any question feel free to contact secrux[at]protonmail.com.
