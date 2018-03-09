@@ -57,4 +57,4 @@ php artisan serve
 ```
 
 ### Questions
-If you have any question feel free to contact secrux[at]protonmail.com.
+If you have any questions feel free to contact secrux[at]protonmail.com.
